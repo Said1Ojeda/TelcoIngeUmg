@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CapaPresentacion
 {
-    public partial class Form1 : Form
+    public partial class FrmEmpleados : Form
     {
-        public Form1()
+        public FrmEmpleados()
         {
             InitializeComponent();
         }
@@ -23,6 +23,16 @@ namespace CapaPresentacion
         }
 
         private void kryptonWrapLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnAgregar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void kryptonHeaderGroup1_Paint(object sender, PaintEventArgs e)
         {
 
         }
